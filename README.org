@@ -1,0 +1,24 @@
+#+TITLE: Math 404 - a collection of math-aware "404 Not Found" pages in departments of mathematics
+
+The following list is in alphabetical order of the domain names of universities.
+
+* Department of Mathematics, The University of Arizona
+
+http://math.arizona.edu/academics/math-404
+
+* Department of Mathematics, Harvard University
+
+http://www.math.harvard.edu/math-404
+
+* School of Mathematical Sciences, The University of Nottingham
+
+https://www.maths.nottingham.ac.uk/math-404
+
+* Department of Mathematics, University of Connecticut
+
+https://www.math.uconn.edu/math-404
+
+* Department of Mathematics, University of Manitoba
+
+https://www.math.umanitoba.ca/math-404
+
