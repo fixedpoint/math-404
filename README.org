@@ -2,6 +2,10 @@
 
 The following list is in alphabetical order of the domain names.
 
+* The Aperiodical
+
+http://aperiodical.com/math-404
+
 * Department of Mathematics, The University of Arizona
 
 http://math.arizona.edu/academics/math-404
