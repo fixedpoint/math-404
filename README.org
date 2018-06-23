@@ -1,6 +1,7 @@
 #+TITLE: Math 404 - a collection of math-aware "404 Not Found" pages from departments of mathematics
 
 The following list is in alphabetical order of the domain names.
+Please see the [[archive.org][archive]] if you would like to feel nostalgic by remembering lost ones.
 
 * The Aperiodical
 

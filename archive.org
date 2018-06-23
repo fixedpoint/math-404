@@ -1,0 +1,8 @@
+#+TITLE: Archive of Math 404
+
+[[https://archive.org/][Internet Archive]] does a great job for preserving epic "404 Not Found" pages.
+
+* http://www.arbitraryconstant.co.uk/404.html
+
+https://web.archive.org/web/20040610014501/http://www.arbitraryconstant.co.uk/404.html
+
