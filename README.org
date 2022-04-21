@@ -31,6 +31,10 @@ https://www.magnt.com/math-404
 
 https://www.mathworks.com/math-404
 
+* Stan
+
+https://mc-stan.org/math-404
+
 * School of Mathematical Sciences, The University of Nottingham
 
 https://www.maths.nottingham.ac.uk/math-404
