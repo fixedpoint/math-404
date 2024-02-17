@@ -1,61 +1,52 @@
-#+TITLE: Math 404 - a collection of math-aware "404 Not Found" pages from departments of mathematics
+#+TITLE: Math 404 - a collection of math-aware "404 Not Found" pages
 
-The following list is in alphabetical order of the domain names.
-Please see the [[archive.org][archive]] if you would like to feel nostalgic by remembering lost ones.
+The entries of the following list are in alphabetical order of the domain names.
+Please see the [[file:archive.org][archive]] file if you would like to feel nostalgic by remembering lost ones.
 
 * The Aperiodical
 
-http://aperiodical.com/math-404
+https://aperiodical.com/math-404
 
 * Department of Mathematics, The University of Arizona
 
 http://math.arizona.edu/academics/math-404
-
-* Department of Mathematics, Harvard University
-
-http://www.math.harvard.edu/math-404
-
-* Illustrative Mathematics
-
-https://www.illustrativemathematics.org/math-404
-
-* Kaggle
-
-https://www.kaggle.com/math-404
+https://web.archive.org/web/20200825175755/https://www.math.arizona.edu/themes/uamath/img/404.png
 
 * Magnt
 
 https://www.magnt.com/math-404
+https://web.archive.org/web/20160115005749/http://magnt.com/404notfound/
+
+* Mathigon
+
+https://mathigon.org/math-404
 
 * MathWorks
 
 https://www.mathworks.com/math-404
+https://web.archive.org/web/20170105060053/https://www.mathworks.com/404.html
 
 * Stan
 
 https://mc-stan.org/math-404
+https://web.archive.org/web/20171113121135/http://mc-stan.org:80/404.html
 
 * School of Mathematical Sciences, The University of Nottingham
 
 https://www.maths.nottingham.ac.uk/math-404
-
-* Oregon Museum of Science and Industry (OMSI)
-
-https://omsi.edu/math-404
+https://web.archive.org/web/20131216155846/https://www.maths.nottingham.ac.uk/errors/findx.gif
 
 * Mathematics Stack Exchange
 
 https://math.stackexchange.com/math-404
+https://web.archive.org/web/20230824035932/http://cdn.sstatic.net/Sites/math/img/404.png
+
+* Mathematica & Wolfram Language Stack Exchange
+
+https://mathematica.stackexchange.com/math-404
+https://web.archive.org/web/20231205221416/http://cdn.sstatic.net/Sites/mathematica/img/404.png
 
 * Cross Validated
 
 https://stats.stackexchange.com/math-404
-
-* Department of Mathematics, University of Connecticut
-
-https://www.math.uconn.edu/math-404
-
-* Department of Mathematics, University of Manitoba
-
-https://www.math.umanitoba.ca/math-404
-
+https://web.archive.org/web/20160613103912/https://cdn.sstatic.net/Sites/stats/img/404.png
